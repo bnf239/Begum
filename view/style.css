@@ -6,7 +6,7 @@ h1,h4 { font-weight: 700; margin-bottom: 10px; }
 h2,h3 { font-weight: 300; color: #325a8f; }
 h2 { font-size: 54px; text-align: center; }
 h3 { font-size: 28px; }
-/*#9cc0f0*/
+
 p.lead { text-align: center; color: #727878; }
 p.lead a { color: #FFFFFF; text-decoration: underline; }
 p.lead a:hover { text-decoration: none; }
@@ -19,10 +19,10 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .btn-primary { background-color: #325a8f; }
 .btn-primary:hover { background-color: #1c8784;  border-color: #1c8784; }
 
-.icon { display: inline-block; background: url(images/sm_icon_sprite.png) no-repeat; height: 32px; width: 32px; }
-.icon.icon-twitter { background-position: 0px 0px; }
+
+
 .icon.icon-linkedin { background-position: 0px -32px; }
-.icon.icon-skype { background-position: 0px -64px; }
+
 .icon.icon-email { background-position: 0px -96px; }
 
 .jumbotron {
@@ -57,9 +57,9 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 
 .jumbotron .container { position: relative; top: 28%; z-index: 4; text-align: center; }
 .jumbotron .container > * { text-align: center; color: #FFFFFF; }
-.jumbotron .container h1 { padding-bottom: 20px; border-bottom: 1px solid #FFFFFF; border-bottom-color: rgba(255,255,255,0.35); display: inline-block; }
+.jumbotron .container h1 { padding-bottom: 20px; border-bottom: 1px solid green; border-bottom-color: rgba(255,255,255,0.35); display: inline-block; }
 .jumbotron .container .lead { font-size: 28px; }
-.jumbotron .scroll-down { height: 80px; width: 110px; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #222222; text-align: center; z-index: 6; }
+.jumbotron .scroll-down { height: 80px; width: 110px; display: block; position: absolute; bottom: 0px; right: 5%; background-color: #1d3759; text-align: center; z-index: 6; }
 .jumbotron .scroll-down .glyphicon {
 	color: #FFFFFF;
 	font-size: 30px;
@@ -80,7 +80,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 .navbar-nav { margin: 0px; }
 .navbar .nav > li { display: block; float: none; height: 80px; }
 .navbar .nav > li a { display: block;  height: 80px; text-align: center; padding-top: 30px; font-weight: 600; color: #FFFFFF; }
-.navbar .nav > li a:hover, .navbar .nav > li a:focus { color: #999999; }
+.navbar .nav > li a:hover, .navbar .nav > li a:focus { color: #39d4cc; }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus { background: #325a8f; color: #FFFFFF; }
 .navbar-default .navbar-toggle:hover .icon-bar,
 .navbar-default .navbar-toggle:focus .icon-bar { background:#1d3759; }
