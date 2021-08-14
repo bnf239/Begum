@@ -225,7 +225,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 
 #projects .grid figure h3 {
 	word-spacing: -0.15em;
-	
+	color: rgb(20, 105, 98);
 	font-weight: 1000;
 }
 
@@ -242,7 +242,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	letter-spacing: 1px;
 	font-size: 68.5%;
 }
-#projects .row > div { margin-bottom: 30px; }
+#projects .row > div { margin-bottom: 60px; }
 
 #projects figure.effect-bubba {
 	background: #247896;
@@ -319,8 +319,8 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 	opacity: 100;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
-	-webkit-transform: translate3d(0,20px,0);
-	transform: translate3d(0,40px,0);
+	-webkit-transform: translate3d(0,10px,0);
+	transform: translate3d(0,10px,0);
 	
 
 }
@@ -340,7 +340,7 @@ hr { margin: 40px 0px; border-color: #727878; opacity: 0.2; filter:alpha(opacity
 }
 /*
 
-				<p>Created an interactive experience for the Master and Margarita by Mikhail Bulgakov</p>
+				 
 				<p><strong>Tags:</strong> <br />Foldable Ski, Mechanical Engineering</p>
 				<a href="https://wp.nyu.edu/foldableski/" target="_blank">View more</a>
 				<span class="icon">
